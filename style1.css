@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+
+}
+h1{
+    text-align: center;
+    background-color: blue;
+    border-radius: 50px;
+    border-width: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    padding: 200px;
+}
+h2{
+    padding: 10px;
+    font-size: x-large;
+
+}
+h3{
+    padding-right: 20px;
+    width: 50px;
+}
